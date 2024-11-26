@@ -1,4 +1,5 @@
-# Hi, I'm Eden Moshe! <img src="https://media.giphy.com/media/kkYbDLFmNvO4E/giphy.gif" width="50" alt="Groot GIF">
+# Hi, I'm Eden Moshe! <img src="https://media.giphy.com/media/ziuFiWIIY1lmw/giphy.gif" width="50" height="50" alt="Guardians of the Galaxy GIF">
+
 
 <p>
     <em>Software Engineering student at <a href="https://w3.braude.ac.il/?lang=en" alt="Link to braude`s english home page">Braude College of Engineering</a> 
