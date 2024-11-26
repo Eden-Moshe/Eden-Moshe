@@ -41,7 +41,7 @@
 
 ### 🛠️ Languages:
 <img align="left" alt="Python icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="C icon" width="50px" style="padding-right:10px;" src="./Images/c logo.svg" />
+<img align="left" alt="C icon" width="59px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
 <img align="left" alt="C++ icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="HTML5 icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -64,8 +64,8 @@
 
 | Platform | Link |
 |----------|------|
-| <img align="left" alt="LinkedIn logo" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> LinkedIn | [Eden Moshe](https://www.linkedin.com/in/Eden-Moshe) |
-| <img align="left" alt="Gmail logo" width="20px" src="./Images/gmail icon.svg" /> Email    | [Edenmoshe160299@gmail.com](mailto:Edenmoshe160299@gmail.com) |
+| <img align="left" alt="LinkedIn logo" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> LinkedIn | [Eden Moshe](https://www.linkedin.com/in/eden-moshe1) |
+| <img align="left" alt="Gmail logo" width="20px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" /> Email    | [Edenmoshe160299@gmail.com](mailto:Edenmoshe160299@gmail.com) |
 
 
 ---
