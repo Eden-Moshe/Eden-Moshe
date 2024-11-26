@@ -1,4 +1,4 @@
-# Hi, I'm Eden Moshe! <img src="https://giphy.com/gifs/orphan-black-guardians-of-the-galaxy-cosima-niehaus-11vDNL1PrUUo0" width="50" alt="Groot GIF">
+# Hi, I'm Eden Moshe! <img src="https://media.giphy.com/media/kkYbDLFmNvO4E/giphy.gif" width="50" alt="Groot GIF">
 
 <p>
     <em>Software Engineering student at <a href="https://w3.braude.ac.il/?lang=en" alt="Link to braude`s english home page">Braude College of Engineering</a> 
